@@ -8,7 +8,7 @@ Este laboratório levará aproximadamente **5** minutos para ser concluído.
 
 Você precisará de uma [assinatura do Azure](https://azure.microsoft.com/free) na qual tenha acesso de nível administrativo.
 
-## Provisionar um recurso do Banco de Dados do Azure para PostgreSQL
+## Provisionar um recurso do Banco de Dados do Azure para servidores flexíveis do PostgreSQL
 
 Neste exercício, você provisionará um recurso do Banco de Dados do Azure para PostgreSQL.
 
